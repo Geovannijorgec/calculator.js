@@ -1,0 +1,19 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Geovannijorgec/calculator.js.git"
+  },
+  "author": "Geovanni jorge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Geovannijorgec/calculator.js/issues"
+  },
+  "homepage": "https://github.com/Geovannijorgec/calculator.js#readme"
+}
