@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Geovannijorgec/calculator.js/issues"
   },
-  "homepage": "https://github.com/Geovannijorgec/calculator.js#readme"
+  "homepage": "https://github.com/Geovannijorgec/calculator.js#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
